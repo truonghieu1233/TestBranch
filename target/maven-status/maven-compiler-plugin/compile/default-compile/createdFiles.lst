@@ -1,0 +1,9 @@
+Controller\LoginServlet.class
+dao\BookDAO.class
+model\Category.class
+model\Book.class
+dao\UserDAO.class
+dao\CategoryDAO.class
+Controller\BookManagementController.class
+dao\DbConnection.class
+model\User.class
